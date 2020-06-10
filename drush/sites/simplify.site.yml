@@ -1,0 +1,4 @@
+local:
+  root: F:\www\simplify/docroot
+  uri: 'http://simplify.local'
+  host: simplify.local
